@@ -4,6 +4,6 @@ h1{
 }
 .body{
   margin: auto;
-  max-width: 800px;
-  
+  max-width: 600px;
+  font-family: "游明朝", serif;
 }
