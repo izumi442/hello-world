@@ -1,9 +1,11 @@
 h1{
-  background-color: gray;
+  background-color: darkgoldenrod;
   color: white;
   text-align: center;
 }
 .body{
   margin: auto;
-  max-width: 800px;
+  max-width: 1000px;
+  background-color: maroon;
+  color:white;
 }
