@@ -1,3 +1,3 @@
-# hello-world
+# README
 
-Hello.
+This is Izumi Kanzaki's main page.
