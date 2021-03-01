@@ -1,11 +1,8 @@
 h1{
-  background-color: darkgoldenrod;
-  color: white;
+  color: crimson;
   text-align: center;
 }
 .body{
   margin: auto;
   max-width: 1000px;
-  background-color: crimson;
-  color:white;
 }
