@@ -4,14 +4,15 @@ h1{
   font-family: "Century Oldstyle", serif;
   margin: auto;
   font-size: 5rem;
+  border-bottom: 1px solid;
   max-width: 700px;
 }
 h2{
   color: #3d3937;
   font-family: "游明朝", serif;
+  border-bottom: 1px solid;
 }
 .content{
-  border-top: 1px solid;
   padding: 50px;
   margin: auto;
   max-width: 600px;
