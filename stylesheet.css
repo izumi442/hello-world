@@ -11,6 +11,8 @@ h2{
   font-family: "游明朝", serif;
 }
 .content{
+  border-top: 1px solid;
+  padding: 50px;
   margin: auto;
   max-width: 600px;
   font-family: "游明朝", serif;
