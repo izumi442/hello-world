@@ -7,7 +7,11 @@ h2{
   color: #3d3937;
   font-family: "游明朝", serif;
 }
+body{
+  background-color: #e6d8d9;
+}
 .content{
+  background-color: white;
   margin: auto;
   max-width: 600px;
   font-family: "游明朝", serif;
