@@ -1,6 +1,3 @@
-body{
-  margin: auto;
-}
 h1{
   color: #b60732;
   font-family: "游明朝", "Century Oldstyle", serif;
@@ -12,13 +9,13 @@ h2{
   font-family: "游明朝", serif;
 }
 .content{
-  padding: 50px;
+  margin: auto;
   max-width: 600px;
   font-family: "游明朝", serif;
 }
 .footer{
   font-family: "游明朝", serif;
-  padding: 50px;
+  margin: auto;
   max-width: 600px;
 }
 .copyright{
