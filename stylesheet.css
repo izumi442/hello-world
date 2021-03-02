@@ -9,13 +9,13 @@ h2{
   font-family: "游明朝", serif;
 }
 .content{
-  margin: auto;
+  padding: 50px;
   max-width: 600px;
   font-family: "游明朝", serif;
 }
 .footer{
   font-family: "游明朝", serif;
-  margin: auto;
+  padding: 50px;
   max-width: 600px;
 }
 .copyright{
