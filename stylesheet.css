@@ -13,6 +13,7 @@ h2{
 }
 .header{
   max-width: 600px;
+  margin: auto;
 }
 .content{
   padding: 50px;
