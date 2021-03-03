@@ -4,6 +4,7 @@ h1{
   font-family: "Century Oldstyle", serif;
   font-size: 2rem;
   font-weight: lighter;
+  max-width: 600px;
 }
 h2{
   color: #3d3937;
@@ -11,7 +12,7 @@ h2{
   border-bottom: 1px solid;
 }
 .header{
-  max-width: 700px;
+  max-width: 600px;
 }
 .content{
   padding: 50px;
