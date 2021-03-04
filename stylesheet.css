@@ -8,7 +8,7 @@ h1{
 }
 h2{
   color: #3d3937;
-  font-family: "Cambria", "游明朝", serif;
+  font-family: "Times New Roman", "游明朝", serif;
   border-bottom: 1px solid;
 }
 .header{
@@ -23,7 +23,7 @@ h2{
   padding: 50px;
   margin: auto;
   max-width: 600px;
-  font-family: "Cambria", "游明朝", serif;
+  font-family: "Times New Roman", "游明朝", serif;
 }
 .footer{
   font-family: "游明朝", serif;
